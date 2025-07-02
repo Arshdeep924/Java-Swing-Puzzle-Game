@@ -1,0 +1,5 @@
+# Ignore Eclipse-specific files and build outputs
+bin/
+*.class
+*.log
+*.form
